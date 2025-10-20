@@ -7,7 +7,7 @@ permalink: /research/
 My work began in **experimental phonetics** within **bilingualism**, asking how bilinguals navigate different phonetic systems across language backgrounds, heritage status, and task demands.
 
 ## Selected Presentations
-- **PSLLT 2025 (Montreal)** – Research on bilingual phonetic variability
+- **PSLLT 2025 (Montreal)** – Research on bilingual phonetic variability and language backgrounds
 - **NWAV-AP 8 (Singapore)** – Sociophonetic patterns in bilingual and heritage speakers
 
 ## Current Research Interests
