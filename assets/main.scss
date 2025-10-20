@@ -20,7 +20,8 @@ h1, h2, h3 {
   letter-spacing: 0.2px;
 }
 
-/* Hero Section layout */
+
+ /* PC & 기본 화면 */
 .hero {
   display: flex;
   align-items: flex-start;
@@ -29,31 +30,36 @@ h1, h2, h3 {
   flex-wrap: wrap;
 }
 
-/* Image responsive */
 .hero__img img {
-  width: clamp(140px, 18vw, 220px); /* PC에서는 18% 폭(대략 200px 근처), 최대 220px 이하 */
+  width: 260px;        /* PC에서는 이 크기 유지 */
   height: auto;
-  border-radius: 12px;
+  border-radius: 15px;
   object-fit: cover;
 }
 
-/* Right text area */
 .hero__text {
   flex: 1 1 300px;
   max-width: 700px;
 }
 
-/* 모바일: 600px 이하 화면에서는 더 작게 표시 */
+
+/* ✅ 모바일 전용 설정 */
 @media (max-width: 600px) {
   .hero {
-    flex-direction: column;
+    flex-direction: column;  /* PC → 가로, 모바일 → 세로 */
     align-items: center;
-    text-align: center;
   }
 
   .hero__img img {
-    width: 120px; /* 모바일 크기 명확하게 고정 */
+    width: 120px !important; /* 📌 모바일에서만 작게 */
   }
+
+  .hero__text {
+    text-align: center;
+    width: 100%;
+  }
+}
+
 
   .hero__text {
     width: 100%;
