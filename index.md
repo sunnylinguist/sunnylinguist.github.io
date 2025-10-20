@@ -1,7 +1,5 @@
----
 layout: home
 title: Home
----
 
 # Hello! 
 My name is **Sunwoo (Sunny) Lee** and I'm a 3rd year Ph.D. student in the Linguistics department at Georgetown University. 
