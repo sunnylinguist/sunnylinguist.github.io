@@ -131,3 +131,60 @@ body {
 .teach-list strong { font-weight: 600; }
 .teach-list em { font-style: normal; color: #555; }
 .teach-list p { margin: 6px 0 0; }
+
+
+/* ===== Research page layout ===== */
+.research { display: grid; gap: 24px; }
+
+.research-block {
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 16px;
+  padding: 20px 22px;
+  box-shadow: 0 8px 24px rgba(0,0,0,.035);
+}
+
+.research-block h2 {
+  margin-top: 0;
+  margin-bottom: .6rem;
+}
+
+/* 작은 Selected 카드 */
+.mini-card {
+  margin-top: 14px;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  padding: 12px 14px;
+  background: #fafafa;
+}
+.mini-card__title {
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+.mini-card ul {
+  margin: 0;
+  padding-left: 18px;
+}
+
+/* Stage 카드 그리드 (현재 방향 묶음) */
+.stage-grid {
+  display: grid;
+  gap: 14px;
+  grid-template-columns: 1fr;
+  margin-top: 10px;
+}
+@media (min-width: 760px){
+  .stage-grid { grid-template-columns: 1fr 1fr 1fr; }
+}
+.stage-card {
+  padding: 12px 14px;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 6px 18px rgba(0,0,0,.03);
+}
+
+/* 하단 안내 */
+.research-foot {
+  margin: 8px 4px 0;
+}
