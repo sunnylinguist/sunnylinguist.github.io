@@ -7,12 +7,12 @@ classes: research-page
 
 My work began in **experimental phonetics** within **bilingualism**, asking how bilinguals navigate different phonetic systems across language backgrounds, heritage status, and task demands.
 
-## Selected Presentation
+Selected Presentation
 - **PSLLT 2025 (Montreal)** – Research on bilingual phonetic variability and language backgrounds
 - **NWAV-AP 8 (Singapore)** – Sociophonetic patterns in bilingual and heritage speakers
 
 ---
-<h2>Research Interests (staged)</h2>
+Research Interests (staged)
 
 <div style="display:grid; gap:14px; grid-template-columns: 1fr;">
   <div style="padding:12px 14px; border:1px solid #eee; border-radius:12px;">
