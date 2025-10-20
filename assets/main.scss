@@ -94,3 +94,40 @@ body {
 .research-page h3 {
   font-size: 0.5rem;
 }
+
+/* ===== Teaching page cards ===== */
+.teach h2 { margin-top: 1.4rem; margin-bottom: .6rem; }
+
+.teach-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 14px;
+}
+
+@media (min-width: 720px){
+  .teach-list { grid-template-columns: 1fr 1fr; } /* 데스크톱에서 2열 카드 */
+}
+
+.teach-list li {
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 14px;
+  padding: 14px 16px;
+  box-shadow: 0 6px 18px rgba(0,0,0,.035);
+}
+
+.teach-list .term {
+  display: inline-block;
+  font-size: .8rem;
+  padding: 2px 8px;
+  border: 1px solid #e5e7eb;
+  border-radius: 999px;
+  background: #f7f7f8;
+  margin-right: 8px;
+}
+
+.teach-list strong { font-weight: 600; }
+.teach-list em { font-style: normal; color: #555; }
+.teach-list p { margin: 6px 0 0; }
