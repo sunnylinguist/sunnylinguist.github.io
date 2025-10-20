@@ -10,20 +10,30 @@ My work began in **experimental phonetics** within **bilingualism**, asking how 
 - **PSLLT 2025 (Montreal)** – Research on bilingual phonetic variability and language backgrounds
 - **NWAV-AP 8 (Singapore)** – Sociophonetic patterns in bilingual and heritage speakers
 
-## Current Research Interests
-Grounded in my previous findings on **accentedness** and my own lived experiences as an international student from South Korea, my current research focuses on the **societal and ideological dimensions** of pronunciation. Specifically, I examine:
-
-- How ideologies of “**correct**” pronunciation influence both **perception** and **production**
-- How such ideologies differ across contexts (L2, heritage, study abroad)
-- The growing prevalence of **AI speaking applications** in South Korea
-- Whether these technologies reinforce **native-speakerism** or promote **comprehensibility-oriented perspectives**
-
-## Ongoing & Planned Projects
-**Work 1** — *Description coming soon*
-**Work 2** — *Description coming soon*
-**Work 3** — *Description coming soon*
-**Work 4** — *Description coming soon*
-
 ---
+<h2>Research Interests (staged)</h2>
 
+<div style="display:grid; gap:14px; grid-template-columns: 1fr;">
+  <div style="padding:12px 14px; border:1px solid #eee; border-radius:12px;">
+    <strong>Stage 1 — Core Themes</strong><br>
+    • Accentedness · Comprehensibility · Intelligibility<br>
+    • Sociophonetics of L2 & heritage speakers<br>
+    • Experimental phonetics & task effects
+  </div>
+
+  <div style="padding:12px 14px; border:1px solid #eee; border-radius:12px;">
+    <strong>Stage 2 — Societal / Ideological</strong><br>
+    • “Correct” pronunciation ideologies (KR context)<br>
+    • Listener bias, native-speakerism<br>
+    • Social impact on perception & production
+  </div>
+
+  <div style="padding:12px 14px; border:1px solid #eee; border-radius:12px;">
+    <strong>Stage 3 — Technology & Practice</strong><br>
+    • AI speaking apps in Korea & ideology reinforcement?<br>
+    • Comprehensibility-oriented pedagogy<br>
+    • Audit/experiments connecting ideology ↔ outcomes
+  </div>
+</div>
+---
 If you are interested in collaboration or learning more about these projects, **feel free to reach out**. I’m always open to connecting with scholars and educators.
