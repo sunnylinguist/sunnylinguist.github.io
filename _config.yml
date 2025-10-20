@@ -6,3 +6,7 @@ url: "https://sunnylinguist.github.io"
 baseurl: ""
 
 header_pages:
+  - index.md
+  - research.md
+  - teaching.md
+  - miscellaneous.md
