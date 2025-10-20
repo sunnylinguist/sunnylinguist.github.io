@@ -1,11 +1,21 @@
-title: Sunwoo (Sunny) Lee
+title: "Sunwoo (Sunny) Lee"
 description: ""
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+plugins:
+  - jekyll-include-cache
 
 url: "https://sunnylinguist.github.io"
 baseurl: ""
 
-header_pages:
-  - research.md
-  - teaching.md
-  - miscellaneous.md
+# 네비게이션 메뉴 설정
+navigation: 
+  main:
+    - title: "Home"
+      url: /
+    - title: "Research"
+      url: /research/
+    - title: "Teaching"
+      url: /teaching/
+    - title: "Miscellaneous"
+      url: /misc/
