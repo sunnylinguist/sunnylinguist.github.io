@@ -1,9 +1,7 @@
 title: "Sunwoo (Sunny) Lee"
 description: ""
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minima
 
-plugins:
-  - jekyll-include-cache
 
 url: "https://sunnylinguist.github.io"
 baseurl: ""
