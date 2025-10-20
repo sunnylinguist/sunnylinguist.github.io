@@ -1,8 +1,8 @@
 ---
 layout: page
-title: ""
-permalink: /
+title: Teaching
+permalink: /teaching/
 ---
 
 Intro TA
-Fall 2025
+Fall 2025 phonology
