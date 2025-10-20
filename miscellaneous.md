@@ -7,3 +7,5 @@ permalink: /miscellaneous/
 running
 hello
 ---
+hi
+---
