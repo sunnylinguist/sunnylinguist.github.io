@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: ""   # 상단 제목 숨김
 permalink: /
 ---
