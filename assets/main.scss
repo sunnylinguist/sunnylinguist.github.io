@@ -1,27 +1,26 @@
 ---
-# 이 3줄짜리 프런트매터는 필수 (지우면 안 됨)
 ---
-
 @import "minima";
 
 /* Google Fonts 불러오기 */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap');
 
-/* 기본 본문 폰트 */
+/* 기본 본문 폰트(그대로 유지: Noto Sans KR) */
 body {
   font-family: 'Noto Sans KR', system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* 제목 살짝 더 단단하게 */
+/* 제목만 Cormorant Garamond로 변경 (크기/여백 설정은 그대로 유지) */
 h1, h2, h3 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
   font-weight: 600;
   letter-spacing: 0.2px;
 }
 
-
- /* PC & 기본 화면 */
+/* PC & 기본 화면 */
 .hero {
   display: flex;
   align-items: flex-start;
@@ -42,7 +41,6 @@ h1, h2, h3 {
   max-width: 700px;
 }
 
-
 /* ✅ 모바일 전용 설정 */
 @media (max-width: 600px) {
   .hero {
@@ -61,43 +59,39 @@ h1, h2, h3 {
 }
 
 /* === Custom Heading Size Adjustment === */
+/* (크기/여백은 기존 값 그대로 유지) */
 
-/* 가장 큰 제목 (h1) 크기 줄이기 */
 h1 {
-  font-size: 1.4rem;   /* 기본은 2.25rem 정도 → 확 줄임 */
+  font-size: 1.4rem;
   font-weight: 600;
   margin-bottom: 0.8rem;
 }
 
-/* h2 제목 줄이기 */
 h2 {
-  font-size: 1.2rem;   /* 기본은 1.75rem */
+  font-size: 1.2rem;
   font-weight: 600;
   margin-bottom: 0.7rem;
 }
 
-/* h3 제목 줄이기 */
 h3 {
-  font-size: 1.1rem;   /* 기본은 1.5rem */
+  font-size: 1.1rem;
   font-weight: 600;
   margin-bottom: 0.6rem;
 }
 
-/* 일반 본문 조정 (원하는 경우) */
+/* 일반 본문 조정 (기존 유지) */
 body {
-  font-size: 0.98rem;  /* 약간 줄임 (1rem=16px 기준) */
+  font-size: 0.98rem;
   line-height: 1.7;
 }
 
-/* 🎯 Research 페이지 전용 제목 크기 조절 */
+/* 🎯 Research 페이지 전용 제목 크기 (기존 유지) */
 .research-page h1 {
   font-size: 1rem;
 }
-
 .research-page h2 {
   font-size: 0.8rem;
 }
-
 .research-page h3 {
   font-size: 0.5rem;
 }
