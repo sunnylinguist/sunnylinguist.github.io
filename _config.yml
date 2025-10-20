@@ -8,5 +8,4 @@ baseurl: ""
 
 header_pages:
   - research.md
-  - teaching.md
   - miscellaneous.md
