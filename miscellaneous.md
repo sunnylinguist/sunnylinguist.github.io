@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Miscellaneous
-permalink: /miscellaneous/
+title: Teaching
+permalink: /teaching/
+---
+Fall 2025 Intro to Langauges 
+Teaching Assistant: Taught Phonetics & Phonology session 
 ---
 
-running
-hello
----
-hi
----
