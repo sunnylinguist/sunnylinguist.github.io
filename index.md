@@ -1,6 +1,7 @@
 ---
-layout: home
-title: ""
+layout: page
+title:  ""
+permalink: /
 ---
 
 <div style="display: flex; align-items: center; gap: 40px; margin-top: 40px;">
@@ -14,12 +15,12 @@ title: ""
   <div style="max-width: 700px;">
     <h1>Hello! 👋</h1>
     <p>
-      My name is <strong>Sunwoo (Sunny) Lee</strong>, and I'm a 3rd year Ph.D. student in the Linguistics Department at Georgetown University.
-      My research interests focus on socially contextualized tensions between <strong>accentedness</strong>, 
-      <strong>comprehensibility</strong>, and <strong>intelligibility</strong> in second language and heritage speaker populations.
+      My name is <strong>Sunwoo (Sunny) Lee</strong>, a 3rd-year Ph.D. student in the Linguistics Department at Georgetown University.
+      I specialize in bilingual phonetics and socially grounded perspectives on accent, comprehensibility, and language ideology.
     </p>
     <p>
-      This website introduces my current and past research projects, and I’m happy to connect with scholars, educators, and learners who share similar interests.
+      This website showcases my current and past research, teaching experience, and academic projects.
+      I welcome opportunities to connect and collaborate.
     </p>
   </div>
 
