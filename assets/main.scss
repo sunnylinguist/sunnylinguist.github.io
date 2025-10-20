@@ -2,21 +2,18 @@
 ---
 @import "minima";
 
-/* Google Fonts 불러오기 */
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap');
+/* Google Fonts: Kulim Park */
+@import url('https://fonts.googleapis.com/css2?family=Kulim+Park:wght@200;300;400;600;700&display=swap');
 
-/* 기본 본문 폰트(그대로 유지: Noto Sans KR) */
 body {
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 1rem;
-  line-height: 1.6;
+  font-family: 'Kulim Park', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  line-height: 1.75;
+  color: #222;
 }
 
-/* 제목만 Cormorant Garamond로 변경 (크기/여백 설정은 그대로 유지) */
 h1, h2, h3 {
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Kulim Park', sans-serif;
   font-weight: 600;
-  letter-spacing: 0.2px;
 }
 
 /* PC & 기본 화면 */
