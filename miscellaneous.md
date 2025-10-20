@@ -1,7 +1,7 @@
 ---
-layout: single
-title: "Miscellaneous"
-permalink: /misc/
+layout: page
+title: ""
+permalink: /
 ---
 
-(Coming soon)
+running
