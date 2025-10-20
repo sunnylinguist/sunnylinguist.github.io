@@ -1,7 +1,8 @@
 ---
-layout: single
-title: "Research"
-permalink: /research/
+layout: page
+title: ""
+permalink: /
 ---
 
-(Coming soon)
+PSLLT 2025
+NWAV AP8
