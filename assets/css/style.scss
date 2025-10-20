@@ -1,19 +1,24 @@
 ---
 ---
-
-@import "minima";
-
-/* ✅ Google Fonts: Kulim Park */
+/* 1) Google Fonts 먼저 로드 */
 @import url('https://fonts.googleapis.com/css2?family=Kulim+Park:wght@200;300;400;600;700&display=swap');
 
+/* 2) 기본 테마 스타일 불러오기 */
+@import "minima";
+
+/* 3) 내 폰트 적용 (minima 위에 덮어쓰기) */
+:root {
+  --font-sans: 'Kulim Park', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
 body {
-  font-family: 'Kulim Park', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  font-family: var(--font-sans);
   line-height: 1.75;
   color: #222;
 }
 
 h1, h2, h3, h4, h5 {
   font-family: 'Kulim Park', sans-serif;
-  font-weight: 600;  /* 제목은 더 진하게 */
+  font-weight: 600;
   letter-spacing: 0.2px;
 }
