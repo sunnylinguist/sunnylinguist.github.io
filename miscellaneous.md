@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ""
-permalink: /
+title: Miscellaneous
+permalink: /miscellaneous/
 ---
 
 running
