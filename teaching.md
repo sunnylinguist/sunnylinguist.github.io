@@ -1,7 +1,7 @@
 ---
-layout: single
-title: "Teaching"
-permalink: /teaching/
+layout: page
+title: ""
+permalink: /
 ---
 
-(Coming soon)
+Intro TA
