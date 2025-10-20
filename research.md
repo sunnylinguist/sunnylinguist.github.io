@@ -2,6 +2,7 @@
 layout: page
 title: "Research"
 permalink: /research/
+classes: research-page
 ---
 
 My work began in **experimental phonetics** within **bilingualism**, asking how bilinguals navigate different phonetic systems across language backgrounds, heritage status, and task demands.
