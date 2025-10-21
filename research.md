@@ -47,7 +47,7 @@ The sections below provide a detailed overview of my current and future research
     <div class="stage-card">
   <strong>Stage 2 — Expanding to transnational bilingual and heritage speaker contexts</strong><br>
   • This stage extends the inquiry from emerging bilinguals in the Korean EFL context to transnational bilinguals, particularly heritage speakers of Korean, who actively navigate two linguistic systems and cultural identities.<br>
-  • I investigate how pronunciation ideologies influence speakers’ linguistic development and identity positioning across both their heritage language and the dominant societal language, with **accentedness** serving as a key construct in shaping perceived legitimacy and belonging.<br>
+  • I investigate how pronunciation ideologies influence speakers’ linguistic development and identity positioning across both their heritage language and the dominant societal language, with <em>accentedness</em> serving as a key construct in shaping perceived legitimacy and belonging.<br>
   • This stage further incorporates a comparative perspective by examining how national language policies and sociopolitical contexts in Korea and abroad shape bilingual speakers’ pronunciation ideologies.<br>
   • Methodologically, this stage follows a similar qualitative approach to Stage 1, drawing on semi-structured interviews and questionnaire-based perception measures.
 </div>
