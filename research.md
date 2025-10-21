@@ -47,7 +47,7 @@ The sections below provide a detailed overview of my current and future research
     <div class="stage-card">
   <strong>Stage 2 — Expanding to transnational bilingual and heritage speaker contexts</strong><br>
   • This stage extends the inquiry from emerging bilinguals in the Korean EFL context to transnational bilinguals, particularly heritage speakers of Korean, who actively navigate two linguistic systems and cultural identities.<br>
-  • I investigate how pronunciation ideologies influence speakers’ linguistic development and identity positioning across both their heritage language and the dominant societal language, with <strong>accentedness</strong> serving as a key construct in shaping perceived legitimacy and belonging.<br>
+  • I investigate how pronunciation ideologies influence speakers’ linguistic development and identity positioning across both their heritage language and the dominant societal language, with **accentedness** serving as a key construct in shaping perceived legitimacy and belonging.<br>
   • This stage further incorporates a comparative perspective by examining how national language policies and sociopolitical contexts in Korea and abroad shape bilingual speakers’ pronunciation ideologies.<br>
   • Methodologically, this stage follows a similar qualitative approach to Stage 1, drawing on semi-structured interviews and questionnaire-based perception measures.
 </div>
@@ -68,7 +68,7 @@ The sections below provide a detailed overview of my current and future research
   • A key focus is to examine not only positive outcomes—such as increased awareness or improvement—but also the potential emergence of negative perceptions, resistance, or reinforced native-speakerism, which remains underexplored in current AI pronunciation research.<br>
   • Methodologically, this stage may utilize existing AI platforms or involve collaboration to develop a custom interface, allowing for controlled manipulation of accent types and feedback modalities (visual, auditory, automated scoring).
 </div>
-</div>
+
   </section>
 
   <p class="research-foot">
