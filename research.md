@@ -36,7 +36,6 @@ The sections below provide a detailed overview of my current and future research
       My current and future research follows a staged trajectory that examines how pronunciation is <strong>socially</strong> perceived for <strong>bilingual speakers</strong>, how such perceptions evolve across different speaker populations, how exposure and treatment can shape listeners’ perception and speakers’ phonetic production, and how emerging AI-driven feedback technologies may reinforce or challenge existing pronunciation ideologies, namely the ideology of <strong>native-speakerism</strong>.
     </p>
 
-    <div class="stage-grid">
      <div class="stage-card">
   <strong>Stage 1 — Investigating pronunciation ideologies in the Korean EFL context as a bilingual trajectory</strong><br>
   • This stage examines how Korean learners, positioned as emerging bilinguals, experience pronunciation ideologies in foreign language education.<br>
