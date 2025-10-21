@@ -69,7 +69,7 @@ The sections below provide a detailed overview of my current and future research
   • A key focus is to examine not only positive outcomes—such as increased awareness or improvement—but also the potential emergence of negative perceptions, resistance, or reinforced native-speakerism, which remains underexplored in current AI pronunciation research.<br>
   • Methodologically, this stage may utilize existing AI platforms or involve collaboration to develop a custom interface, allowing for controlled manipulation of accent types and feedback modalities (visual, auditory, automated scoring).
 </div>
-
+</div>
   </section>
 
   <p class="research-foot">
