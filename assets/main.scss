@@ -185,3 +185,30 @@ body {
 .research-foot {
   margin: 8px 4px 0;
 }
+/* (기존 코드들: 폰트, hero, heading size 등) */
+
+/* ===== Slim vertical layout for research stages ===== */
+.stage-card {
+  margin-bottom: 20px;
+  padding: 12px 14px;
+  border-left: 4px solid #555;
+  background: #fdfdfd;
+  border-radius: 6px;
+}
+
+.stage-card strong {
+  font-size: 1.1rem;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.stage-card br {
+  line-height: 1.4;
+}
+
+.stage-card p,
+.stage-card li {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin: 4px 0;
+}
