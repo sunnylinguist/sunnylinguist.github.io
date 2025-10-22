@@ -7,5 +7,6 @@ url: "https://sunnylinguist.github.io"
 baseurl: ""
 
 header_pages:
-  - research.md
+  - current project.md
+  - research experience.md
   - teaching.md
