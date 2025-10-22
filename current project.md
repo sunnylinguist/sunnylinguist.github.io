@@ -9,7 +9,7 @@ classes: current project-page
 
   <section class="research-block">
     <p>
-      My current and future research follows a staged trajectory that investigates how pronunciation is socially perceived within bilingual contexts, how these perceptions evolve across different bilingual populations, how exposure and treatment influence perception and phonetic production, and how AI-driven feedback may reinforce or challenge pronunciation ideologies, particularly <strong>native-speakerism</strong>.
+      My current and future research follows a staged trajectory that investigates how pronunciation is socially perceived within bilingual contexts, how these perceptions evolve across different bilingual populations, how exposure and treatment influence perception and phonetic production, and how AI-driven feedback may reinforce or challenge pronunciation ideologies, particularly native-speakerism.
     </p>
 
      <div class="stage-card">
