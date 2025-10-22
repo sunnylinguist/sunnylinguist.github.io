@@ -32,7 +32,7 @@ classes: current project-page
 
 
 <div class="stage-card">
-  <strong>Stage 4: AI interaction, feedback, and ideology</strong><br>
+  <strong>Stage4: AI interaction, feedback, and ideology</strong><br>
   • Examines how interaction with AI feedback systems using different accent varieties influences bilingual learners’ perception, production, and attitudes toward accentedness.<br>
   • Investigates whether AI-mediated environments reinforce or challenge pronunciation ideologies such as native-speakerism, based on the type of feedback and accent exposure.
 </div>
