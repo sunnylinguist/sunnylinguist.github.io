@@ -10,10 +10,17 @@ permalink: /
   </div>
   <div class="hero__text">
     <p>
-      My name is <strong>Sunwoo (Sunny) Lee</strong>, a 3rd-year Ph.D. student in the Linguistics Department at Georgetown University. My research focuses on socially contextualized tensions between <strong>accentedness</strong>, <strong>comprehensibility</strong>, and <strong>intelligibility</strong>, based on ideologies such as nativespeakersim. On top of that, I'm interested in how current AI models may reflect such biases.
+   My name is <strong>Sunwoo (Sunny) Lee</strong>, and I am a third-year Ph.D. student in Linguistics at Georgetown University with a <strong>strong dual background in theoretical phonetics/phonology and applied linguistics</strong>. 
+My research centers on <strong>bilingual speech</strong> and the socially constructed tensions between <strong>accentedness</strong>, <strong>comprehensibility</strong>, and <strong>intelligibility</strong>, grounded in ideologies such as <em>native-speakerism</em>. 
+My current research agenda, 
+<strong>“Socially Contextualized Accentedness in Bilingual Speech”</strong>, is structured around:
+(1) the social and ideological implications of accentedness in bilingual communities, and 
+(2) its extension into the AI era, where pronunciation technologies may reproduce or challenge existing linguistic hierarchies. 
+Details on ongoing and future projects can be found in the 
+<a href="/current-projects.html"><em>Current Projects</em> tab</a>.
+
+
     </p>
-    <p>
-      This website showcases my research, teaching experience, and academic interests!!
-    </p>
+    
   </div>
 </div>
