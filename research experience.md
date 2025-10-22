@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research experience"
-permalink: /research experience/
+permalink: /research-experience/
 ---
 
 <div class="research experience">
