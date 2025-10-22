@@ -6,7 +6,7 @@ permalink: /research-experience/
 
 <div class="research experience">
 <section class="research-block">
-  <h2>Past Work &amp; Motivation</h2>
+  <h3>Past Work &amp; Motivation</h3>
   <p>
     My work began in <strong>experimental phonetics</strong> within <strong>bilingualism</strong>, asking how bilinguals
     navigate different phonetic systems across language backgrounds, heritage status, and task demands.
@@ -26,7 +26,7 @@ permalink: /research-experience/
 
 <!-- New Block: Emerging Research Direction from Personal & Social Experience -->
 <section class="research-block">
-  <h2>Evolution of Research Focus</h2>
+  <h3>Evolution of Research Focus</h3>
   <p>
     While my early work focused on empirical phonetic patterns, my research trajectory shifted as I experienced linguistic diversity firsthand after moving from Korea to the United States. 
     Growing up in an English-as-a-foreign-language context, pronunciation was primarily framed as achieving proximity to a single “standard.” 
