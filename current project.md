@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Current project"
-permalink: /current project/
+permalink: /current-project/
 classes: current project-page
 ---
 
