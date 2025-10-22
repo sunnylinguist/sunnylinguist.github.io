@@ -10,7 +10,7 @@ permalink: /
   </div>
   <div class="hero__text">
     <p>
-   Hello! My name is <strong>Sunwoo (Sunny) Lee</strong>, and I am a third-year Ph.D. student in Linguistics at Georgetown University with a strong dual background in <strong>theoretical phonetics/phonology </strong> and <strong> applied linguistics.</strong> 
+   Hello! My name is <strong>Sunwoo (Sunny) Lee</strong>, and I am a third-year Ph.D. student in the Linguistics Department at Georgetown University with a strong dual background in <strong>theoretical phonetics/phonology </strong> and <strong> applied linguistics.</strong> 
       <p>
     My research centers on bilingual speech and the socially constructed tensions between accentedness, comprehensibility, and intelligibility, grounded in ideologies such as native-speakerism. 
       </p>
