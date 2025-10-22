@@ -20,7 +20,7 @@ My current research agenda,
 (1) the social and ideological implications of accentedness in bilingual communities, <br>
 (2) its extension into the AI era, where pronunciation technologies may reproduce or challenge existing linguistic hierarchies. <br>
 Details on ongoing and future projects can be found in the 
-<a href="/current-project/"><em>Current project</em></a>!
+<a href="/current-project/"><em>Current project</em></a> !
 
 
 
